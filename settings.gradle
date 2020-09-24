@@ -1,0 +1,3 @@
+include ':mine_ktx'
+include ':app'
+rootProject.name = "MineKtx"
